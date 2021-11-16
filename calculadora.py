@@ -16,7 +16,7 @@ def dividir(valor1, valor2):
         return valor1 / valor2
 
 def potencia(valor1, valor2):
-        return pow(valor1, valor2)
+        return valor1 ** valor2
 
 def raiz_enesima(valor1, valor2):
         return valor1 ** (1 / float(valor2))
